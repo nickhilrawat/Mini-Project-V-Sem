@@ -1,0 +1,113 @@
+aerobics
+archery
+athletics
+badminton
+baseball
+basketball
+bicycling
+biking
+billiards
+boxing
+canoeing
+chess
+cricket
+curling
+cycling
+dartboard
+deadlifting
+decathlon
+diving
+dodgeball
+football
+free throw
+frisbee
+free running
+geocaching
+golf
+gymnastics
+hammer throw
+handball
+hang gliding
+hardball
+heptathlon
+high jump
+hockey
+hurdle race
+ice hockey
+ice skating
+inline skates
+jai-alai
+javelin
+jogging
+judo
+jump rope
+karate
+kayaking
+kickball
+kung fu
+kite
+lacrosse
+lawn bowling
+long jump
+luge
+martial arts
+MotoGP
+Nordic skiing
+orienteering
+paddleball
+paintball
+parasailing
+parkour
+pentathlon
+pickleball
+ping pong
+polo
+racewalking
+racing
+racquetball
+rafting
+relay race
+rock climbing
+roller skating
+rowing
+rugby
+sailing
+scuba diving
+skiing
+sledding
+snorkling
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+squash
+Sumo wrestling
+surfing
+swimming
+synchronized swimming
+table tennis
+taekwondo
+telemark skiing
+tennis
+tetherball
+toboggan
+track and field
+trampoline
+triathlon
+triple jump
+triple play
+tug of war
+ultramarathon
+unicycling
+vaulter
+volley ball
+wakeboarding
+water polo
+waterski
+waterskiing
+weightlifting
+white water rafting
+windsurfing
+wrestling
